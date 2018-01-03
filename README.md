@@ -1,3 +1,4 @@
 # CryptoBro-Token
 CryptoBro Token
-This is an edit 
+For resources and explantions on why the code works visit
+https://www.ethereum.org/token
